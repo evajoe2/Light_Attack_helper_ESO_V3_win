@@ -30,7 +30,7 @@ clcik the main.exe
  
  program added left mouse click  
  
- after mouse click and delay random time (0.6~.0.9sec)
+ after mouse click and delay random time (0.06~.0.09sec)
  
  than press your skill key
  
