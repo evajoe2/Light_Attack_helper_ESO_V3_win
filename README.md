@@ -9,21 +9,31 @@ find main.exe
 
 usage:
 
-
 clcik the main.exe
 
-
-
- 1. show the eso key mapping on program (1,2,3,4,5,r)
+ 1. show the eso key mapping on program (1,2,3,4,5,r) (default no need change)
  
  2. asking do you wanna change (if your game setting not default)
  
- 3. show  the python key mapping(should same your eso game setting)
+ 3. show  the python key mapping(should same your eso game setting)(default no need change)
  
  4. asking do you wanna change (set to same key for your eso)
 
  5. show you home key is exit the python
  
  6. press "home key to exit program anytime
+ 
+ 
+ description:
+ 
+ every time  you press skill key
+ 
+ program added left mouse click  
+ 
+ after mouse clcik and delay random time (0.6~.0.9sec)
+ 
+ than press your skill key
+ 
+ 
  
  
