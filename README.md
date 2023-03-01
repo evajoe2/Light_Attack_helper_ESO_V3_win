@@ -24,6 +24,6 @@ clcik the main.exe
 
  5. show you home key is exit the python
  
- 6. that it
+ 6. press "home key to exit program anytime
  
  
